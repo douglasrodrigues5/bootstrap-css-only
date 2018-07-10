@@ -1,14 +1,15 @@
 {
-  "name": "bootstrap-css-only",
+  "name": "bootstrap-stylesheet-only",
   "description": "[Bootstrap](http://getbootstrap.com/) CSS and font libraries only. No javascript, and more importantly NO bower depenedency on jQuery.",
   "keywords": [
     "twitter",
     "bootstrap",
     "twitter-bootstrap",
-    "css"
+    "css",
+    "scss"
   ],
   "main": [
-    "css/bootstrap.css"
+    "scss/bootstrap.scss"
   ],
   "homepage": "https://getbootstrap.com/",
   "license": "MIT",
@@ -17,6 +18,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/fyockm/bootstrap-css-only.git"
+    "url": "git://github.com/douglasrodrigues5/bootstrap-stylesheet-only.git"
   }
 }

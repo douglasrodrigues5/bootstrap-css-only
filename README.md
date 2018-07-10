@@ -1,4 +1,6 @@
-# Bootstrap CSS only
+  THIS PACKAGE IS A PERSONAL FORK FOR MY APPLICATIONS,  [CLICK HERE]("https://github.com/fyockm/bootstrap-css-only") IF YOU WANT TO USE THE ORIGINAL ONE
+  (WITHOUT THE SCSS FILES)**
+# Bootstrap Stylesheet only
 
 A Bower and NPM component for [Bootstrap](http://getbootstrap.com/) CSS and font libraries only. No javascript, and more importantly NO depenedency on jQuery. Perfect companion for [Angular-UI Bootstrap](https://github.com/angular-ui/bootstrap-bower).
 
