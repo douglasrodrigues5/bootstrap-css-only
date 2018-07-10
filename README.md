@@ -1,8 +1,7 @@
-  THIS PACKAGE IS A PERSONAL FORK FOR MY APPLICATIONS,  [CLICK HERE]("https://github.com/fyockm/bootstrap-css-only") IF YOU WANT TO USE THE ORIGINAL ONE
-  (WITHOUT THE SCSS FILES)**
+FORKED FROM: [BOOTSTRAP-CSS-ONLY](https://github.com/fyockm/bootstrap-css-only)
 # Bootstrap Stylesheet only
 
-A Bower and NPM component for [Bootstrap](http://getbootstrap.com/) CSS and font libraries only. No javascript, and more importantly NO depenedency on jQuery. Perfect companion for [Angular-UI Bootstrap](https://github.com/angular-ui/bootstrap-bower).
+A Bower and NPM component for [Bootstrap](http://getbootstrap.com/) SCSS/CSS and font libraries only. No javascript, and more importantly NO dependency on jQuery. Perfect companion for [Angular-UI Bootstrap](https://github.com/angular-ui/bootstrap-bower).
 
 - With 3.0.1 and above, the glyphicons are included as well.
 - Starting with version 3.3.5, package is available on NPM also.
@@ -12,21 +11,21 @@ A Bower and NPM component for [Bootstrap](http://getbootstrap.com/) CSS and font
 #### Bower
 
 ```bash
-$ bower install bootstrap-css-only
+$ bower install bootstrap-stylesheet-only
 ```
 
 #### NPM (3.3.5+)
 
 ```bash
-$ npm install bootstrap-css-only
+$ npm install bootstrap-stylesheet-only
 ```
 
 ### Previous Bootstrap versions also available:
-You can request info for a specific version with 'bower info bootstrap-css-only#<version>'
+You can request info for a specific version with 'bower info bootstrap-stylesheet-only#<version>'
 
 ```bash
-$ bower install bootstrap-css-only#2.3.2
-$ bower install bootstrap-css-only#3.0.0
+$ bower install bootstrap-stylesheet-only#2.3.2
+$ bower install bootstrap-stylesheet-only#3.0.0
 ...
 ```
 
