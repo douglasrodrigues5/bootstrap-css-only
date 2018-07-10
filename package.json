@@ -4,7 +4,7 @@
   "version": "4.1.1",
   "author": "Twitter, Inc.",
   "bugs": {
-    "url": "https://github.com/fyockm/bootstrap-css-only/issues"
+    "url": "https://github.com/douglasrodrigues5/bootstrap-stylesheet-only/issues"
   },
   "files": [
     "css",
@@ -26,5 +26,5 @@
     "type": "git",
     "url": "git+https://github.com/douglasrodrigues5/bootstrap-stylesheet-only.git"
   },
-  "style": "css/bootstrap.css"
+  "style": "scss/bootstrap.scss"
 }
